@@ -1,1 +1,2 @@
 ci Pipeline code
+EXECUTE PIPELINE 
